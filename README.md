@@ -1,4 +1,4 @@
-# Sindhura_Task1
+# Sindhura_Task2
 
 ## Project Description
 This task contains a portfolio webpage created using HTML and CSS.
