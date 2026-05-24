@@ -15,7 +15,7 @@ This task contains a portfolio webpage created using HTML and CSS.
 - Cherla_Sindhura_Resume.pdf
 
 # Usage
-Clone the repository: git clone  https://cherlasindhura29.github.io/sindhura_task2/
+Clone the repository: git clone https://cherlasindhura29.github.io/sindhura_task2
 
 
 ## How to Run
