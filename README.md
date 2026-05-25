@@ -22,7 +22,7 @@ This project showcases my skills, projects, and basic information in a clean and
 
 ## 📂 Project Structure
 
-```
+
 portfolio/
 │
 ├── index.html
