@@ -35,7 +35,8 @@ portfolio/
 ## 🚀 How to Run
 
 1.  [view website]
- https://cherlasindhura29.github.io/OIBSIP_WEBDEV_TASk12/
+ git clone https://cherlasindhura29.github.io/OIBSIP_WEBDEV_TASk12/
+
 2. Open the project folder  
 3. Open `index.html` in browser  
 
