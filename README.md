@@ -1,27 +1,59 @@
-# Sindhura_Task2
+# 👩‍💻 Personal Portfolio Website
 
-## Project Description
-This task contains a portfolio webpage created using HTML and CSS.
-
-## Technologies Used
-- HTML
-- CSS
+Welcome to my personal portfolio website!  
+This project showcases my skills, projects, and basic information in a clean and responsive design.
 
 
-## Files Included
-- index.html
-- style.css
-- sindhu.jpg
-- Cherla_Sindhura_Resume.pdf
+## 🌟 Features
 
-# Usage
-Clone the repository: git clone  https://cherlasindhura29.github.io/sindhura_task2/
-
-
+✨ Responsive Design  
+✨ Attractive User Interface  
+✨ About Me Section  
+✨ Skills Section  
+✨ Projects Showcase  
+✨ Contact Section  
 
 
-## How to Run
-Open the index.html file in any browser.
+## 🛠️ Technologies Used
+
+- 🧱 HTML
+- 🎨 CSS 
+  
+
+## 📂 Project Structure
+
+```
+portfolio/
+│
+├── index.html
+├── style.css
+├── sindhu.jpg
+├── Cherla_Sindhura_Resume.pdf
+└── README.md
+
+
+## 🚀 How to Run
+
+1. Download or clone the repository 
+2. Open the project folder  
+3. Open `index.html` in browser  
+
+
+
+## 👩 About Me
+
+This portfolio represents my learning journey and web development skills.
+
+
+## 🎯 Objectives
+
+- Build a professional portfolio  
+- Practice frontend development  
+- Showcase projects and skills  
+
+
 
 ## Author
-sindhura cherla
+Sindhura Cherla
+
+⭐ Thank you for visiting my portfolio!
